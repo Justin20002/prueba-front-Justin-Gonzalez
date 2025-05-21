@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\JUSTIN GONZALEZ\LaFiseApi\LaFiseApi\obj\Debug\net8.0\LaFiseApi..csproj.AssemblyReference.cache
+C:\Users\User\source\repos\JUSTIN GONZALEZ\LaFiseApi\LaFiseApi\obj\Debug\net8.0\LaFiseApi..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\JUSTIN GONZALEZ\LaFiseApi\LaFiseApi\obj\Debug\net8.0\LaFiseApi..AssemblyInfoInputs.cache
+C:\Users\User\source\repos\JUSTIN GONZALEZ\LaFiseApi\LaFiseApi\obj\Debug\net8.0\LaFiseApi..AssemblyInfo.cs
+C:\Users\User\source\repos\JUSTIN GONZALEZ\LaFiseApi\LaFiseApi\obj\Debug\net8.0\LaFiseApi..csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JUSTIN GONZALEZ\LaFiseApi\LaFiseApi\obj\Debug\net8.0\LaFiseApi..MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\JUSTIN GONZALEZ\LaFiseApi\LaFiseApi\obj\Debug\net8.0\LaFiseApi..MvcApplicationPartsAssemblyInfo.cache
